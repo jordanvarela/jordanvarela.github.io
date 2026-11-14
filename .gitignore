@@ -5,3 +5,7 @@ _freeze/
 
 .vagrant/
 .vscode/
+.streamlit/secrets.toml
+.env
+*.db
+__pycache__/
